@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vishnupriya
 - 👀 I’m interested in Data science and Machine learning
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science,Data Analytics
 - 💞️ I’m looking to collaborate on python,data science projects
 - 📫 How to reach me : vishnupriyavarrier99@gmail.com
   
